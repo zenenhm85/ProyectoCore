@@ -1,0 +1,17 @@
+D:\Estudio\ProyectoCore\Aplicacion\bin\Debug\net6.0\Aplicacion.deps.json
+D:\Estudio\ProyectoCore\Aplicacion\bin\Debug\net6.0\Aplicacion.dll
+D:\Estudio\ProyectoCore\Aplicacion\bin\Debug\net6.0\Aplicacion.pdb
+D:\Estudio\ProyectoCore\Aplicacion\bin\Debug\net6.0\Dominio.dll
+D:\Estudio\ProyectoCore\Aplicacion\bin\Debug\net6.0\Persistencia.dll
+D:\Estudio\ProyectoCore\Aplicacion\bin\Debug\net6.0\Dominio.pdb
+D:\Estudio\ProyectoCore\Aplicacion\bin\Debug\net6.0\Persistencia.pdb
+D:\Estudio\ProyectoCore\Aplicacion\obj\Debug\net6.0\Aplicacion.csproj.AssemblyReference.cache
+D:\Estudio\ProyectoCore\Aplicacion\obj\Debug\net6.0\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudio\ProyectoCore\Aplicacion\obj\Debug\net6.0\Aplicacion.AssemblyInfoInputs.cache
+D:\Estudio\ProyectoCore\Aplicacion\obj\Debug\net6.0\Aplicacion.AssemblyInfo.cs
+D:\Estudio\ProyectoCore\Aplicacion\obj\Debug\net6.0\Aplicacion.csproj.CoreCompileInputs.cache
+D:\Estudio\ProyectoCore\Aplicacion\obj\Debug\net6.0\Aplicacion.csproj.CopyComplete
+D:\Estudio\ProyectoCore\Aplicacion\obj\Debug\net6.0\Aplicacion.dll
+D:\Estudio\ProyectoCore\Aplicacion\obj\Debug\net6.0\refint\Aplicacion.dll
+D:\Estudio\ProyectoCore\Aplicacion\obj\Debug\net6.0\Aplicacion.pdb
+D:\Estudio\ProyectoCore\Aplicacion\obj\Debug\net6.0\ref\Aplicacion.dll

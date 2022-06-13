@@ -72,6 +72,43 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "Aplicacion/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Dominio": "1.0.0",
+          "Persistencia": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Aplicacion.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Aplicacion.dll": {}
+        }
+      },
+      "Dominio/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Dominio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dominio.dll": {}
+        }
+      },
+      "Persistencia/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Dominio": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Persistencia.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Persistencia.dll": {}
+        }
       }
     }
   },
@@ -200,10 +237,26 @@
         "swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "Aplicacion/1.0.0": {
+      "type": "project",
+      "path": "../Aplicacion/Aplicacion.csproj",
+      "msbuildProject": "../Aplicacion/Aplicacion.csproj"
+    },
+    "Dominio/1.0.0": {
+      "type": "project",
+      "path": "../Dominio/Dominio.csproj",
+      "msbuildProject": "../Dominio/Dominio.csproj"
+    },
+    "Persistencia/1.0.0": {
+      "type": "project",
+      "path": "../Persistencia/Persistencia.csproj",
+      "msbuildProject": "../Persistencia/Persistencia.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "Aplicacion >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.2.3"
     ]
   },
@@ -213,11 +266,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Estudio\\ProyectoCore\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "D:\\Estudio\\ProyectoCore\\WebApi\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "D:\\Estudio\\ProyectoCore\\WebAPI\\WebAPI.csproj",
+      "projectPath": "D:\\Estudio\\ProyectoCore\\WebApi\\WebAPI.csproj",
       "packagesPath": "C:\\Users\\zenen\\.nuget\\packages\\",
-      "outputPath": "D:\\Estudio\\ProyectoCore\\WebAPI\\obj\\",
+      "outputPath": "D:\\Estudio\\ProyectoCore\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zenen\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -233,7 +286,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Estudio\\ProyectoCore\\Aplicacion\\Aplicacion.csproj": {
+              "projectPath": "D:\\Estudio\\ProyectoCore\\Aplicacion\\Aplicacion.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

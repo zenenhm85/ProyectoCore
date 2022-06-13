@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bR/1Rtli18cfUnGiaJ/k3oIKuS0P6RV1cji6XxfIJ/nfeKFZZXHLsWx4ioM+jXimaSJscV6TnQS2q5NZ4ebPBQ==",
+  "dgSpecHash": "2mk8HaokhV/8Q9vg13Ev8DecnkVmqIRZbEZSo7Eixu1NJ83CowLZvnetzN6fXLD+C34H9gAEHykalQlgX+5AtA==",
   "success": true,
-  "projectFilePath": "D:\\Estudio\\ProyectoCore\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "D:\\Estudio\\ProyectoCore\\WebApi\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zenen\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\zenen\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

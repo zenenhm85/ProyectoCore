@@ -1,0 +1,15 @@
+D:\Estudio\ProyectoCore\Persistencia\bin\Debug\net6.0\Persistencia.deps.json
+D:\Estudio\ProyectoCore\Persistencia\bin\Debug\net6.0\Persistencia.dll
+D:\Estudio\ProyectoCore\Persistencia\bin\Debug\net6.0\Persistencia.pdb
+D:\Estudio\ProyectoCore\Persistencia\bin\Debug\net6.0\Dominio.dll
+D:\Estudio\ProyectoCore\Persistencia\bin\Debug\net6.0\Dominio.pdb
+D:\Estudio\ProyectoCore\Persistencia\obj\Debug\net6.0\Persistencia.csproj.AssemblyReference.cache
+D:\Estudio\ProyectoCore\Persistencia\obj\Debug\net6.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudio\ProyectoCore\Persistencia\obj\Debug\net6.0\Persistencia.AssemblyInfoInputs.cache
+D:\Estudio\ProyectoCore\Persistencia\obj\Debug\net6.0\Persistencia.AssemblyInfo.cs
+D:\Estudio\ProyectoCore\Persistencia\obj\Debug\net6.0\Persistencia.csproj.CoreCompileInputs.cache
+D:\Estudio\ProyectoCore\Persistencia\obj\Debug\net6.0\Persistencia.csproj.CopyComplete
+D:\Estudio\ProyectoCore\Persistencia\obj\Debug\net6.0\Persistencia.dll
+D:\Estudio\ProyectoCore\Persistencia\obj\Debug\net6.0\refint\Persistencia.dll
+D:\Estudio\ProyectoCore\Persistencia\obj\Debug\net6.0\Persistencia.pdb
+D:\Estudio\ProyectoCore\Persistencia\obj\Debug\net6.0\ref\Persistencia.dll
